@@ -1,0 +1,8 @@
+pandas
+chromadb
+transformers
+gtts
+whisper
+pyaudio
+wave
+torchaudio
